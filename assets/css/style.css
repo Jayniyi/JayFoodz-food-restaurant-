@@ -956,7 +956,7 @@ body {
 
 .blog {
   text-align: center;
-  padding: 2rem;
+  padding: 3rem 2rem;
 }
 .blog img {
   width: 100%;
@@ -1272,6 +1272,10 @@ textarea.input-field {
 }
 .last{
   padding-bottom: 7rem;
+}
+.pasta{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  padding-top: .5rem;
 }
 @media (min-width: 768px) {
   .hero {
@@ -1808,7 +1812,7 @@ textarea.input-field {
     font-weight: 300;
   }
   .kok {
-    padding: 3rem;
+    padding: 5rem;
   }
   .footer-top .container {
     grid-template-columns: 1fr 1fr 1fr 1.6fr;
